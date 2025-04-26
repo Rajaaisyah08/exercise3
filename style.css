@@ -1,0 +1,11 @@
+.info {
+    background-color: #ffffff;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    width: 50%;
+    margin: auto;
+}
+p {
+    font-size: 18px;
+}
